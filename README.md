@@ -1,5 +1,5 @@
 # Hello there! I'm Sebastian
-A passionate Pythonista and student from Poland.
+A passionate Gopher and student from Poland.
 
 ## Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
