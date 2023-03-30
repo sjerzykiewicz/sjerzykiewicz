@@ -1,5 +1,5 @@
 # Hello there! I'm Sebastian
-A passionate Gopher and student from Poland.
+A passionate Gopher, software developer, and student from Poland.
 
 ## Skills:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
