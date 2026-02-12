@@ -1,6 +1,6 @@
 # Hi, I'm Sebastian 👋
 
-Software Engineer working on large-scale data infrastructure, distributed processing systems, and applied AI research.
+R&D Software Engineer working on large-scale data infrastructure, distributed processing systems, and applied AI research.
 
 ## About me
 
