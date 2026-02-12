@@ -41,3 +41,9 @@ At the same time, I am pursuing a Master's degree in Artificial Intelligence, fo
 - Data platform migrations and technical debt reduction
 - Improving reliability of ingestion and processing pipelines
 - Research on techniques for reducing hallucinations in language models
+
+I care about:
+- building systems that are reliable under real conditions
+- understanding how systems fail
+- keeping architectures simple and maintainable
+- solving practical problems rather than theoretical ones
